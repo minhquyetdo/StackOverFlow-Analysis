@@ -59,3 +59,7 @@ findspark.init()
 ```
 6. Run the analysis code cells in the notebook to perform the StackOverflow user behavior analysis.
 7. Review the generated visualizations and reports to gain insights into StackOverflow user behavior.
+
+## License
+
+Feel free to contribute, make improvements, or use the code as a reference for your own analysis
