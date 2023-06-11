@@ -1,7 +1,7 @@
 # StackOverflow User Behavior Analysis
 
 ## Overview
-The StackOverflow User Behavior Analysis is a data analysis project aimed at extracting insights from StackOverflow user data. \
+A data analysis project aimed at extracting insights from StackOverflow user data. \
 This analysis focuses on determining programming language usage, identifying active users and posts, and identifying the most shown-up websites. \
 By leveraging **Apache Spark**'s distributed computing capabilities, the analysis efficiently processes large volumes of data to uncover valuable insights.
 
